@@ -10,7 +10,6 @@ public class MemberMain {
 		System.out.println(user1.getId());
 		
 		
-		
 	}
 
 }
